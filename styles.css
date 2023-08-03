@@ -1,0 +1,11 @@
+.row {
+    justify-content: center;
+}
+
+.container-fluid {
+    padding: 0 50px;
+}
+
+.card {
+    margin: 3rem 0;
+}
